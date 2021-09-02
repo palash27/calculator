@@ -1,8 +1,5 @@
 pipeline {
     agent any;
-    environment {
-
-    }
     tools {
         nodejs 'jenkins-demo-node'
     }
